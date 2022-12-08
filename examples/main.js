@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import CatUI from '../lib/cat-ui.common.js'
+import CatUI from '../lib/old-seven-ui.common.js'
 import router from './router'
 import hljs from 'highlight.js'
 import demoBlock from './components/demo-block'

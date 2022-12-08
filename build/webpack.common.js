@@ -12,7 +12,7 @@ module.exports = {
   output: {
     path: path.resolve(process.cwd(), './lib'), // 绝对路径
     publicPath: '/dist/', // 相对于服务(server-relative)
-    filename: 'cat-ui.common.js',
+    filename: 'old-seven-ui.common.js',
     chunkFilename: '[id].js',
     library: {
       type: 'commonjs2', //配置将库暴露的方式

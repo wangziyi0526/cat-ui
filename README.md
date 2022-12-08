@@ -1,3 +1,3 @@
-# cat-ui
+# old-seven-ui
 
-> cat-ui component library only for study
+> old-seven-ui component library only for study
