@@ -7,5 +7,5 @@ exports.alias = {
   main: path.resolve(__dirname, '../src'),
   packages: path.resolve(__dirname, '../packages'),
   examples: path.resolve(__dirname, '../examples'),
-  'cat-ui': path.resolve(__dirname, '../'),
+  'old-seven-ui': path.resolve(__dirname, '../'),
 }
